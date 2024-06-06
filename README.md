@@ -1,6 +1,7 @@
 # Chicken Fecal Image Classification
 
-This project uses a Convolutional Neural Network (CNN) to classify images of chicken feces. The goal is to identify potential health issues based on the appearance of the feces. Created a Simple Web App to uplaod the image a get a prediction.
+This project utilizes a Convolutional Neural Network (CNN) to classify images of chicken feces with the aim of identifying potential health issues based on fecal appearance. The application allows users to upload an image of chicken feces and receive a prediction, thereby assisting in early detection and health management for poultry.
+
 
 ## Installation 
 
